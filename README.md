@@ -71,7 +71,7 @@ console.log(countVowelConsonantOccurrences("Prepbytes"));
 ## ✅ How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/string-question-solver.git
+  https://github.com/saurabh271999/jsassignment-4.git
    ```
 2. Navigate to the project directory:
    ```sh
